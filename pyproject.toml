@@ -9,6 +9,7 @@ authors = [
 ]
 description = "Purchase Order Item Selector by Supplier, Brand & Manufacturer for ERPNext"
 readme = "README.md"
+requires-python = ">=3.10"
 dynamic = ["version"]
 dependencies = []
 
