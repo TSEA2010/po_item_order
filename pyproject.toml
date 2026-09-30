@@ -1,0 +1,16 @@
+[build-system]
+requires = ["flit_core >=3.4,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "po_item_order"
+authors = [
+    { name = "WoolMatt ERP", email = "procurement@woolmatt.com"}
+]
+description = "Purchase Order Item Selector by Supplier, Brand & Manufacturer for ERPNext"
+readme = "README.md"
+dynamic = ["version"]
+dependencies = []
+
+[project.urls]
+Homepage = "https://woolmatt.com"
